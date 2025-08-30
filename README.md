@@ -1,4 +1,4 @@
-<h1 align="center">HEY GOOB, HAVE YOU FOUND A CLUE?</h1>
+<h1 align="center">HEY SNOOB, Have You Found A Clue ?</h1>
 
 ###
 
